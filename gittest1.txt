@@ -3,3 +3,4 @@ ABC
 你好
 
 Hello World!
+0.0
